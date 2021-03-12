@@ -6,12 +6,12 @@ It works for any Regular Grammar.
 
 ##Test Varianta 31:
   #Grammar:
-  ![] screens/screen1.png
-  ![] screens/screen2.png
+  ![] https://github.com/Victor0120/LFPC/blob/master/lab1/screens/screen1.png
+  ![] https://github.com/Victor0120/LFPC/blob/master/lab1/screens/screen2.png
 
  
  #Results:
- ![] screens/screen3.png
- ![] screens/screen4.png
+ ![] https://github.com/Victor0120/LFPC/blob/master/lab1/screens/screen3.png
+ ![] https://github.com/Victor0120/LFPC/blob/master/lab1/screens/screen4.png
  
 
