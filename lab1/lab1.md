@@ -6,12 +6,7 @@ It works for any Regular Grammar.
 
 ##Test Varianta 31:
   #Grammar:
-  ![1] (https://github.com/Victor0120/LFPC/blob/master/lab1/screens/screen1.png)
-  ![2] (https://github.com/Victor0120/LFPC/blob/master/lab1/screens/screen2.png)
-
+  ![] (https://github.com/Victor0120/LFPC/blob/master/lab1/screens/screen1.png)
  
  #Results:
- ![3] (https://github.com/Victor0120/LFPC/blob/master/lab1/screens/screen3.png)
- ![4] (https://github.com/Victor0120/LFPC/blob/master/lab1/screens/screen4.png)
- 
 
