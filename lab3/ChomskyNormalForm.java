@@ -35,7 +35,7 @@ public class ChomskyNormalForm {
         int i = 0;
         for (List<String> words: this.grammar.getRight()){
             i += 1;
-            List<String> remove = new ArrayList<>(); // word with non_productive non_terminal of some terminal
+            List<String> remove = new ArrayList<>(); 
             for (String word: words){
                 for (char c: word.toCharArray()){
                     if (non_productive.contains(String.valueOf(c))){
