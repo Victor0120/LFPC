@@ -3,7 +3,7 @@
 
 Parsing Algorithm on paper:
 
-![](https://github.com/Victor0120/LFPC/blob/master/lab1/screens/screen15.png)
+![](https://github.com/Victor0120/LFPC/blob/master/lab1/screens/screen15.jpg)
 
 As we can see there are cells with multiple transitions in them, which means that this grammar is not LL1-parseable.
 
